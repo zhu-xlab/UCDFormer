@@ -12,6 +12,6 @@ After configuring the file path: run the code
 `python main_seasonal_change_from _summer_to_autumn.py` for Seasonal Change from Summer to Autumn  
 `python main_seasonal_change_from_spring to_winter.py` for Seasonal Change from Spring to Winter  
 `python main_style_changes.py` for Style Changes  
-`python main_landslide.py` for Applications in Landslide Detection
+`python main_landslide.py` for Applications in Landslide Detection  
 Other applications just change the corresponding data path.
 # Citation
