@@ -7,3 +7,6 @@ Fig. 1. Change detection with domain shift, which is used to reflect style diffe
 Fig. 2. Overview of UCDFormer.  The architecture of the model is divided into three parts, 	i.e., image translation, reliable pixel extraction, and change map extraction.  D, GN, CG, SBG represent downsampling, group normalization, channel group, and style bank generation, respectively.
 # Datasets
 We evaluate the proposed network on three datasets: data with seasonal differences, data with style differences, and earthquake-induced landslide detection with style differences.
+## Run
+After configuring the file path:
+run the code `python UCDFormer/main_seasonal_change_from _summer_to_autumn.py` for Seasonal Change from Summer to Autumn 
