@@ -8,5 +8,5 @@ Fig. 2. Overview of UCDFormer.  The architecture of the model is divided into th
 # Datasets
 We evaluate the proposed network on three datasets: data with seasonal differences, data with style differences, and earthquake-induced landslide detection with style differences.
 ## Run
-After configuring the file path:
+After configuring the file path:  
 run the code `python UCDFormer/main_seasonal_change_from _summer_to_autumn.py` for Seasonal Change from Summer to Autumn 
