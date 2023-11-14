@@ -8,8 +8,8 @@ Fig. 2. Overview of UCDFormer.  The architecture of the model is divided into th
 # Datasets
 We evaluate the proposed network on three datasets: data with seasonal differences, data with style differences, and earthquake-induced landslide detection with style differences.
 # Pretrain Models
-The Pretrain model of VGG is available at ![Link](https://drive.google.com/file/d/1OIAOQv3zw5XHoPpcD2e7Nw39N5mYw74J/view?usp=drive_link)
-The Pretrain model of VGG is available at![Link]()
+The Pretrain model of VGG is available at [Link](https://drive.google.com/file/d/1OIAOQv3zw5XHoPpcD2e7Nw39N5mYw74J/view?usp=drive_link)  
+The Pretrain model of VGG is available at [Link]()
 # Run
 After configuring the file path: run the code  
 `python main_seasonal_change_from _summer_to_autumn.py` for Seasonal Change from Summer to Autumn  
