@@ -18,3 +18,12 @@ After configuring the file path: run the code
 `python main_landslide.py` for Applications in Landslide Detection  
 Other applications just change the corresponding data path.
 # Citation
+@ARTICLE{10251124,
+  author={Xu, Qingsong and Shi, Yilei and Guo, Jianhua and Ouyang, Chaojun and Zhu, Xiao Xiang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={UCDFormer: Unsupervised Change Detection Using a Transformer-Driven Image Translation}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-17},
+  doi={10.1109/TGRS.2023.3305334}}
